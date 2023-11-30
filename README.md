@@ -2,7 +2,7 @@
 
 A practice project featuring a captivating parallax effect.
 
-Live Demo:-
+Live Demo:-https://shravanthakare.github.io/Parallax-Effect-Website-Project/
 
 ## Technologies
 
